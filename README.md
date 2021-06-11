@@ -1,6 +1,6 @@
 # C-Simple-Key-Logger
 
-This is a C keylogger that will track keystrokes but not distinguish from capitalization. 
+This is a C++ keylogger that will track keystrokes but not distinguish from capitalization. 
 
 Made for educational purposes.
 
